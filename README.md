@@ -104,4 +104,14 @@ def testAdd(num1, num2):
   return num1 + num2
 ```
 
+---
 
+<!-- Table Rules -->
+|  Name  |  Breed  |  DoB  |
+|--------|---------|-------|
+| Sober  | ShihTzu | 11/21 |
+| Chichi | ShihTzu | 01/22 |
+
+---
+
+<!-- Task Lists -->
