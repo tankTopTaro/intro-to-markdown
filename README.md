@@ -38,3 +38,7 @@ pew
 ---
 pew pew pew 
 ___
+
+<!--  Escape Character Rule with Backslash  -->
+*Pickle pee* \*Pickle pee*, *Pump-a-rum* \*Pump-a-rum*
+
