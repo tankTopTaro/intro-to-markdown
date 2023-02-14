@@ -53,6 +53,9 @@ ___
 **WATCH THIS FOR A GUIDE REGARDING LINKS**:
 [HOW TO ADD LINKS](https://www.youtube.com/watch?v=9czg4DSaRTM&list=PLHztOObXYCYGL2DNt5yVzeTyyyohG50tv&index=9)
 
+__NOTE: Adding a balloon tip description to our links__
+[Renai Circulation](https://www.youtube.com/watch?v=RQmEERvqq70/ "Everybody's Circulation")
+
 ---
 
 <!--  -->
