@@ -77,3 +77,8 @@ Ordered List
 
 ---
 
+<!-- Code Block -->
+**Note**: To display a code block you need to use \`
+
+`gobuster dns -d mydomain.thm -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt`
+
