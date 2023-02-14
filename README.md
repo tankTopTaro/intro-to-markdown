@@ -25,6 +25,16 @@ _This is how to make text italacized._
 
 __YOU STONG__
 
+---
+
 <!--  Strike through  -->
 
 I was an adventurer once, ~~but then I took an arrow to the knee.~~
+
+---
+
+<!--  Horizontal Rule --->
+pew 
+---
+pew pew pew 
+___
