@@ -12,11 +12,14 @@
 ---
 
 <!--  Italics -->
+
 _This is how to make text italacized._
 
 *This too will be italicized.*
 
 ---
 
-<!--  Bold  -->
-That is bold
+<!--  Strong  -->
+
+**ME STRONG**
+__YOU STONG__
