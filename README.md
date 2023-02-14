@@ -58,4 +58,22 @@ __NOTE: Adding a balloon tip description to our links__
 
 ---
 
-<!--  -->
+<!--  Unordered Lists -->
+
+Unordered Lists
+* Sober
+* Chichi
+  * Tipsy
+  * Dixie
+
+<!--  Ordered Lists -->
+
+Ordered List
+1. Hyrule Warrior: Age of Calamity
+2. The Legend of Zelda: Breath of the Wild
+3. The Legend of Zelda: Tears of the Kingdom
+
+    3.1. BUY THE GAME!!!
+
+---
+
