@@ -47,4 +47,12 @@ ___
 <!--  Blockquote Rule -->
 > Use \> to display a block of text
 
+---
+<!--  Links  -->
 
+**WATCH THIS FOR A GUIDE REGARDING LINKS**:
+[HOW TO ADD LINKS](https://www.youtube.com/watch?v=9czg4DSaRTM&list=PLHztOObXYCYGL2DNt5yVzeTyyyohG50tv&index=9)
+
+---
+
+<!--  -->
