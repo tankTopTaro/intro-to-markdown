@@ -22,4 +22,9 @@ _This is how to make text italacized._
 <!--  Strong  -->
 
 **ME STRONG**
+
 __YOU STONG__
+
+<!--  Strike through  -->
+
+I was an adventurer once, ~~but then I took an arrow to the knee.~~
